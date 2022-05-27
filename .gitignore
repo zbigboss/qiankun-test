@@ -1,0 +1,12 @@
+*/**/node_modules
+**/dist
+# Vue.js projects
+.DS_Store
+node_modules/
+dist/
+
+### VS Code ###
+.vscode/
+
+### 配置文件禁止上传 ###
+.env.development
